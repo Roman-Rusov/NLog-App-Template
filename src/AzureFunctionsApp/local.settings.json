@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "Application_Schedule": "0 0 0 */7 * *",
+    "AzureFunctionsJobHost__Logging__LogLevel__default": "Information",
+    "AzureFunctionsJobHost__Logging__LogLevel__Apps": "Trace"
+  }
+}
